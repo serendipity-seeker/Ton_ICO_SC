@@ -1,0 +1,10 @@
+{
+    "projects": [{
+        "name": "ICO",
+        "path": "./sources/contract.tact",
+        "output": "./sources/output",
+        "options":{
+            
+        }
+    }]
+}
